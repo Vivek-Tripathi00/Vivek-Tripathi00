@@ -1,74 +1,168 @@
 <div align="center">
-  <img src="https://github.com/Vivek-Tripathi00/Vivek-Tripathi00/blob/main/banner.png" width="100%" alt="Vivek's Banner">
+  <img src="banner.png?raw=true" alt="Vivek Tripathi Banner" width="100%">
+  
+  <!-- Animated 3D Title -->
+  <h1 align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&height=70&lines=%F0%9F%91%8B%20Hi%2C%20I'm%20Vivek%20Tripathi;%F0%9F%92%BB%20Full-Stack%20Developer;%F0%9F%93%8A%20Data%20Analyst;%F0%9F%A4%96%20AI%20Prompt%20Engineer" alt="Animated Typing SVG" />
+  </h1>
+
+  <!-- 3D Social Badges -->
+  <div align="center">
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn">
+    </a>
+    <a href="https://vivektripathi.dev">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio">
+    </a>
+    <a href="mailto:vivek.tripathi@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </div>
 </div>
 
-# **Hi, I'm Vivek Tripathi** 👨‍💻  
-### **Full-Stack Developer | Data Analyst | Web Designer**  
-Passionate about **React, Python, SQL, Power BI, and Ethical Hacking**  
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek_Tripathi-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-vivektripathi.dev-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
-[![Gmail](https://img.shields.io/badge/Gmail-vivek.tripathi@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:vivek.tripathi@gmail.com)  
+## 🚀 **Tech Stack** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+<!-- 3D Tech Stack Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=react" width="65" alt="React">
+        <br>
+        <strong>React</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" alt="Node.js">
+        <br>
+        <strong>Node.js</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python">
+        <br>
+        <strong>Python</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=flask" width="65" alt="Flask">
+        <br>
+        <strong>Flask</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" alt="PostgreSQL">
+        <br>
+        <strong>PostgreSQL</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=powerbi" width="65" alt="Power BI">
+        <br>
+        <strong>Power BI</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker">
+        <br>
+        <strong>Docker</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=aws" width="65" alt="AWS">
+        <br>
+        <strong>AWS</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## **🛠️ Tech Stack**  
-### **Frontend & Design**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+## 📊 **GitHub Analytics** <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="50">
 
-### **Backend & Databases**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### **Data Analysis & BI**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+<div align="center">
+  <!-- 3D Stats Cards -->
+  <a href="https://github.com/Vivek-Tripathi00">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek-Tripathi00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" alt="Vivek's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Tripathi00&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2" alt="Top Languages"/>
+  </a>
+  <img src="https://streak-stats.demolab.com?user=Vivek-Tripathi00&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## **📊 GitHub Stats & Activity**  
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek-Tripathi00&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Tripathi00&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vivek-Tripathi00&theme=radical&hide_border=true)  
+## 🏆 **Featured Projects** <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50">
+
+<!-- 3D Project Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💬 Real-Time Chat System</h3>
+        <div align="center">
+          <a href="https://github.com/Vivek-Tripathi00/chat-app">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek-Tripathi00&repo=chat-app&theme=radical&bg_color=0d1117&title_color=8A2BE2" width="400">
+          </a>
+          <p>WebSocket + React + Flask | End-to-end encrypted</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📝 AI Question Generator</h3>
+        <div align="center">
+          <a href="https://github.com/Vivek-Tripathi00/question-paper-generator">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek-Tripathi00&repo=question-paper-generator&theme=radical&bg_color=0d1117&title_color=8A2BE2" width="400">
+          </a>
+          <p>Python + NLP + SQL | Automated exam papers</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌡️ AQI Analytics Dashboard</h3>
+        <div align="center">
+          <a href="https://github.com/Vivek-Tripathi00/aqi-analysis">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek-Tripathi00&repo=aqi-analysis&theme=radical&bg_color=0d1117&title_color=8A2BE2" width="400">
+          </a>
+          <p>Power BI + Python | Real-time air quality data</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎮 Gaming E-Commerce</h3>
+        <div align="center">
+          <a href="https://github.com/Vivek-Tripathi00/gaming-empire">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek-Tripathi00&repo=gaming-empire&theme=radical&bg_color=0d1117&title_color=8A2BE2" width="400">
+          </a>
+          <p>MERN Stack | Payment integration</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## **🔥 Featured Projects**  
+## 📝 **Latest Articles** <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="50">
 
-### **1. Chatting System (WebSocket + React + Flask)**  
-[![Repo](https://img.shields.io/badge/Repo-Chat_App-2C2255?style=for-the-badge&logo=github)](https://github.com/Vivek-Tripathi00/chat-app)  
-📌 Real-time chat app with user authentication & encryption.  
-
-### **2. Question Paper Generator (Python + SQL)**  
-[![Repo](https://img.shields.io/badge/Repo-Question_Generator-2C2255?style=for-the-badge&logo=github)](https://github.com/Vivek-Tripathi00/question-paper-generator)  
-📌 AI-based question paper generator from a database.  
-
-### **3. AQI Report Region (Data Analysis + Power BI)**  
-[![Repo](https://img.shields.io/badge/Repo-AQI_Analysis-2C2255?style=for-the-badge&logo=github)](https://github.com/Vivek-Tripathi00/aqi-analysis)  
-📌 Air Quality Index dashboard with real-time data.  
-
-### **4. Gaming Empire (React + Node.js + MongoDB)**  
-[![Repo](https://img.shields.io/badge/Repo-Gaming_Empire-2C2255?style=for-the-badge&logo=github)](https://github.com/Vivek-Tripathi00/gaming-empire)  
-📌 E-commerce site for gaming merchandise.  
+<!-- Dynamic Blog Posts -->
+<div align="center">
+  <a href="https://yourblog.com/chat-app-tutorial">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/0" alt="Recent Article 0" width="45%">
+  </a>
+  <a href="https://yourblog.com/powerbi-vs-tableau">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/1" alt="Recent Article 1" width="45%">
+  </a>
+</div>
 
 ---
 
-## **📌 Latest Blog Posts**  
-- [How to Build a Real-Time Chat App with React & Flask](https://yourblog.com)  
-- [Power BI vs Tableau: Which is Better for Data Analysis?](https://yourblog.com)  
+## 🎵 **Now Playing** <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50">
+
+<div align="center">
+  <!-- Dynamic Spotify Card -->
+  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyid&count=3&width=700)](https://open.spotify.com/user/yourspotifyid)
+</div>
 
 ---
 
-## **🎧 Now Playing**  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem)](https://spotify.com)  
-
----
-
-### **Visitors Count**  
-![Visitor Count](https://komarev.com/ghpvc/?username=Vivek-Tripathi00&color=blueviolet&style=flat-square)  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vivek-Tripathi00&label=Profile+Views&color=8A2BE2&style=for-the-badge" alt="Vivek's Profile Views" />
+  <img src="https://img.shields.io/github/followers/Vivek-Tripathi00?label=Followers&style=for-the-badge&color=8A2BE2" alt="GitHub Followers" />
+</div>
