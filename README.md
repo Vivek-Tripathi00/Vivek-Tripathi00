@@ -136,6 +136,34 @@
     </tr>
   </table>
 </div>
+## 🏆 **Featured Projects** <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50">
+
+### 📊 E-commerce Sales Analysis Dashboard | Power BI 💼
+> Mastering Business Decisions through Data Insights
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue?style=flat-square&logo=powerbi)](https://github.com/Vivek-Tripathi00/E-commerce-analysis)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Professional-green?style=flat-square)](https://github.com/Vivek-Tripathi00/E-commerce-analysis)
+[![DAX Mastery](https://img.shields.io/badge/DAX-Mastery-yellow?style=flat-square)](https://github.com/Vivek-Tripathi00/E-commerce-analysis)
+
+🎯 **Overview**  
+Dive into a real-world **E-commerce dataset** using Power BI, where I uncover crucial insights such as profit trends, top-performing categories, and customer behavior patterns.  
+This interactive dashboard exemplifies advanced **data modeling**, **ETL**, and **storytelling** using **Power Query** and **DAX**, focusing on **KPI-driven visuals** and actionable insights.
+
+📌 **Key Highlights**  
+- 💰 Total Sales: `438K` | 📈 Profit: `37K` | 📦 Quantity Sold: `5615`
+- 📍 State-wise and City-wise Performance
+- 💳 Payment Mode Analysis: COD, UPI, EMI, Cards
+- 🗂️ Category & Sub-category Profitability
+- 📆 Monthly Profit Trends
+- 🎯 KPI-Driven Visuals with Dynamic Filters (Quarter, State, Category)
+
+<img src="https://raw.githubusercontent.com/Vivek-Tripathi00/E-commerce-analysis/main/images/dashboard.png" width="100%" alt="E-commerce Dashboard" />
+
+🔗 **Project Repository**  
+👉 [GitHub Repo: E-commerce Analysis](https://github.com/Vivek-Tripathi00/E-commerce-analysis)
+
+---
+
 
 ---
 
