@@ -183,6 +183,17 @@ This interactive dashboard exemplifies advanced **data modeling**, **ETL**, and 
 ✨ A visually stunning, responsive, and secure modern portfolio with Login & Signup built using Flask and enhanced with HTML/CSS/JS ✨
 </p>
 
+## 📸 Screenshots (Live Preview)
+
+<p align="center">
+  <img src="img1.png" width="300" title="Home Page">
+  <img src="img2.png" width="300" title="Signup Page">
+  <img src="img3.png" width="300" title="Login Page">
+</p>
+
+---
+
+
 ---
 
 ## 🔥 Features at a Glance
