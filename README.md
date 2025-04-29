@@ -163,6 +163,39 @@ This interactive dashboard exemplifies advanced **data modeling**, **ETL**, and 
 👉 [GitHub Repo: E-commerce Analysis](https://github.com/Vivek-Tripathi00/E-commerce-analysis)
 
 ---
+<h1 align="center">🌐 3D Animated Flask Portfolio Website</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-3.0.3-blue?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-CSS3-JS-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Backend-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modern-UI🌀-green?style=for-the-badge" />
+</p>
+
+
+🔗 Live Demo
+🚀 Experience it live here:
+👉 https://vivektripathi.pythonanywhere.com
+
+🎯 Hosted with ❤️ on PythonAnywhere
+
+<p align="center">
+✨ A visually stunning, responsive, and secure modern portfolio with Login & Signup built using Flask and enhanced with HTML/CSS/JS ✨
+</p>
+
+---
+
+## 🔥 Features at a Glance
+
+✅ 3D Animated Modern Portfolio  
+✅ Flask-based User Authentication (Login / Signup)  
+✅ Eye-Catching UI + Smooth Animations  
+✅ Clean Modular Code  
+✅ Fully Responsive Design  
+✅ Custom Styling and Python Backend Integration  
+
+---
+
 
 
 ---
