@@ -206,6 +206,13 @@ This interactive dashboard exemplifies advanced **data modeling**, **ETL**, and 
 ✅ Custom Styling and Python Backend Integration  
 
 ---
+
+# 🏰 EmpireX - March of Empires 
+
+
+> **A Medieval Fantasy MMO Strategy Game**
+>
+> ----
 ![EmpireX Banner](img_1.png) <!-- Replace with your actual banner image -->
 
 > **A Medieval Fantasy MMO Strategy Game**  
