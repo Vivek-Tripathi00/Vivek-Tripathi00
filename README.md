@@ -76,6 +76,7 @@ Full-stack multiplayer strategy platform inspired by *March of Empires*.
 ### 📊 Customer Churn Prediction Dashboard
 
 Machine learning dashboard to predict customer churn with 85%+ accuracy.
+<img src="img_1_.png" width="100%" alt="Project Preview"/>
 
 * Multiple ML models (RF, SVM, Logistic)
 * Data visualization + insights
