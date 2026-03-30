@@ -99,7 +99,8 @@ Interactive dashboard analyzing sales, profit, and customer behavior.
 ---
 
 ### 🏥 Blood Bank Management System
-<img src="Screenshot 2026-03-30 152119.png" width="100%" alt="Project Preview"/>
+<img src="Screenshot 2026-03-30 154941.png" width="100%" alt="Project Preview"/>
+https://bloodbank72.pythonanywhere.com/
 
 Healthcare system to manage donors, blood inventory, and requests.
 
