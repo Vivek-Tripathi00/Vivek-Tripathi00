@@ -99,6 +99,7 @@ Interactive dashboard analyzing sales, profit, and customer behavior.
 ---
 
 ### 🏥 Blood Bank Management System
+<img src="Screenshot 2026-03-30 152119.png" width="100%" alt="Project Preview"/>
 
 Healthcare system to manage donors, blood inventory, and requests.
 
@@ -109,7 +110,7 @@ Healthcare system to manage donors, blood inventory, and requests.
 ---
 
 ### 🌐 3D Animated Flask Portfolio
-
+<img src="img1.png" width="100%" alt="Project Preview"/>
 🔗 https://vivektripathi.pythonanywhere.com
 
 Modern interactive portfolio with authentication system.
