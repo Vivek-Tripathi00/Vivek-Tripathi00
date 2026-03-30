@@ -34,7 +34,7 @@
 ---
 
 ### 🧠 Medical Imaging System – Pneumonia Detection
-<img src="project1.png" width="100%" alt="Project Preview"/>
+<img src="Screenshot 2026-03-30 152119.png" width="100%" alt="Project Preview"/>
 
 🔗 https://huggingface.co/spaces/vivektri9500/medical_imagning
 
