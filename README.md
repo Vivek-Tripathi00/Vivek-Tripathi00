@@ -60,6 +60,7 @@ AI-based predictive system for smart farming decisions.
 ---
 
 ### 🎮 EmpireX – MMO Gaming Platform
+<img src="img_1.png" width="100%" alt="Project Preview"/>
 
 🔗 https://empirex.onrender.com/
 
