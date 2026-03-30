@@ -47,6 +47,7 @@ AI-powered deep learning system to detect pneumonia from chest X-rays.
 ---
 
 ### 🌾 Project Samarth – Intelligent Agricultural Insights
+<img src="Screenshot 2026-03-30 153507.png" width="100%" alt="Project Preview"/>
 
 🔗 https://samarth72.pythonanywhere.com/
 
