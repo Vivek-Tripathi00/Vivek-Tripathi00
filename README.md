@@ -157,7 +157,7 @@ This interactive dashboard exemplifies advanced **data modeling**, **ETL**, and 
 - 📆 Monthly Profit Trends
 - 🎯 KPI-Driven Visuals with Dynamic Filters (Quarter, State, Category)
 
-<img src="https://raw.githubusercontent.com/Vivek-Tripathi00/E-commerce-analysis/main/images/dashboard.png" width="100%" alt="E-commerce Dashboard" />
+<img src="https://raw.githubusercontent.com/Vivek-Tripathi00/E-commerce-analysis/main/images/E-commerce_Sales_Power_BI_Template.webp" width="100%" alt="E-commerce Dashboard" />
 
 🔗 **Project Repository**  
 👉 [GitHub Repo: E-commerce Analysis](https://github.com/Vivek-Tripathi00/E-commerce-analysis)
