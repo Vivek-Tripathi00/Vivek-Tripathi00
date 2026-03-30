@@ -1,111 +1,136 @@
 <div align="center">
+  <img src="banner.png?raw=true" width="100%" />
 
-<img src="banner.png" width="100%" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vivek+Tripathi;Full-Stack+Developer;AI+%7C+Data+Science+Enthusiast" />
+  </h1>
 
-# 👋 Hi, I'm Vivek Tripathi
+  <p>
+    Building intelligent systems, scalable web platforms, and data-driven solutions.
+  </p>
 
-### 💻 Full-Stack Developer | 📊 Data Analyst | 🤖 AI Enthusiast
-
-<p>
-I build intelligent systems, data-driven dashboards, and scalable web applications that solve real-world problems.
-</p>
-
+  <p>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:vivek.tripathi@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Stack
 
-* 🎓 B.Tech Graduate (Data Science)
-* 💡 Passionate about **AI, Data Analytics, and Full-Stack Development**
-* 🔬 Focused on building **real-world impactful projects**
-* 📍 Based in India
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Development
-
-`Python` `Flask` `JavaScript` `HTML` `CSS` `React`
-
-### 📊 Data & AI
-
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Power BI`
-
-### 🗄️ Databases & Tools
-
-`MySQL` `PostgreSQL` `Git` `Docker` `AWS`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,react,nodejs,mysql,postgres,js,html,css,docker,aws,pandas,sklearn,tensorflow" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
+---
+
 ### 🧠 Medical Imaging System – Pneumonia Detection
 
-AI-powered system for detecting pneumonia from chest X-ray images using deep learning.
+🔗 https://huggingface.co/spaces/vivektri9500/medical_imagning
+
+AI-powered deep learning system to detect pneumonia from chest X-rays.
+
+* CNN-based model for medical image classification
+* Real-time prediction via web interface
+* Deployed on Hugging Face Spaces
 
 ---
 
-### 🌾 Project Samarth – Intelligent Agricultural Insights Platform
+### 🌾 Project Samarth – Intelligent Agricultural Insights
 
-Smart agriculture platform providing crop recommendations and data-driven insights.
+🔗 https://samarth72.pythonanywhere.com/
+
+AI-based predictive system for smart farming decisions.
+
+* Crop recommendation using ML models
+* Uses environmental & soil parameters
+* Data-driven agriculture insights
 
 ---
 
-### 🎮 EmpireX – Gaming Solution Platform
+### 🎮 EmpireX – MMO Gaming Platform
 
-Full-stack MMO strategy web platform with real-time chat and multiplayer features.
+🔗 https://empirex.onrender.com/
+
+Full-stack multiplayer strategy platform inspired by *March of Empires*.
+
+* Real-time chat (WebSockets)
+* PayPal payment integration
+* Leaderboard + Admin Panel
+* Community-driven gaming ecosystem
 
 ---
 
 ### 📊 Customer Churn Prediction Dashboard
 
-Machine learning dashboard predicting customer churn with 85%+ accuracy.
+Machine learning dashboard to predict customer churn with 85%+ accuracy.
+
+* Multiple ML models (RF, SVM, Logistic)
+* Data visualization + insights
+* Business-focused predictions
 
 ---
 
-### 🛒 E-Commerce Sales Analysis Dashboard (Power BI)
+### 🛒 E-Commerce Sales Dashboard (Power BI)
 
-Interactive dashboard analyzing sales, profit, and customer trends.
+🔗 https://github.com/Vivek-Tripathi00/E-commerce-analysis
+
+Interactive dashboard analyzing sales, profit, and customer behavior.
+
+* KPI-driven insights
+* Advanced DAX & Power Query
+* Business intelligence use case
+
+<img src="https://raw.githubusercontent.com/Vivek-Tripathi00/E-commerce-analysis/main/images/E-commerce_Sales_Power_BI_Template.webp" width="100%"/>
 
 ---
 
 ### 🏥 Blood Bank Management System
 
-System for managing donors, blood inventory, and requests efficiently.
+Healthcare system to manage donors, blood inventory, and requests.
+
+* Efficient database management
+* Real-time availability tracking
+* Practical healthcare application
 
 ---
 
-### 🌐 3D Animated Flask Portfolio Website
+### 🌐 3D Animated Flask Portfolio
 
-Modern portfolio with authentication and 3D UI design.
+🔗 https://vivektripathi.pythonanywhere.com
+
+Modern interactive portfolio with authentication system.
+
+* 3D UI + animations
+* Login / Signup system
+* Responsive design
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Tripathi00&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Tripathi00&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek-Tripathi00&show_icons=true&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Tripathi00&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ What I Do
 
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
-* 🌐 Portfolio: https://yourportfolio.com
-* 📧 Email: [vivek.tripathi@gmail.com](mailto:vivek.tripathi@gmail.com)
-
----
-
-## ⚡ What I Focus On
-
-* Building **AI-powered applications**
-* Creating **data-driven dashboards**
-* Developing **scalable web systems**
-* Solving **real-world problems using technology**
+* 🧠 Build AI-powered systems
+* 📊 Create data-driven dashboards
+* 🌐 Develop full-stack applications
+* 🚀 Solve real-world problems with technology
 
 ---
 
